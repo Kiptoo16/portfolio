@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    background-color: cornsilk;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: grey;
+    color: whitesmoke;
+    text-align: center;
+    display: flex;
+    align-items: center;
+      }
+
+img {
+    max-width: 50%;
+    height:15%;
+    display: ruby-base;
+    margin: 20px auto;
+    border-radius: 10%;
+}
+p{
+    font-family: "Playwrite US Modern", cursive;
+}
+
